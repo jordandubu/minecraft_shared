@@ -11,3 +11,5 @@
 [17:05:18] [User Authenticator #1/INFO]: UUID of player Dordane is 2eb309c2-45f5-4eed-94a0-a294066b93a2
 [17:05:18] [Server thread/INFO]: Dordane[/127.0.0.1:48198] logged in with entity id 320 at (129.40805080525865, 71.0, 160.88217644296617)
 [17:05:18] [Server thread/INFO]: Dordane joined the game
+[17:06:19] [Server thread/INFO]: Dordane lost connection: Timed out
+[17:06:19] [Server thread/INFO]: Dordane left the game
