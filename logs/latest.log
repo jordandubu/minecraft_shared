@@ -9,3 +9,8 @@
 [16:04:04] [Server thread/INFO]: Preparing start region for level 0
 [16:04:05] [Server thread/INFO]: Preparing spawn area: 74%
 [16:04:05] [Server thread/INFO]: Done (1.542s)! For help, type "help" or "?"
+[16:06:04] [User Authenticator #1/INFO]: UUID of player Dordane is 2eb309c2-45f5-4eed-94a0-a294066b93a2
+[16:06:04] [Server thread/INFO]: Dordane[/172.18.0.1:33328] logged in with entity id 314 at (128.98565803591936, 71.0, 158.36097653145686)
+[16:06:04] [Server thread/INFO]: Dordane joined the game
+[16:06:13] [Server thread/INFO]: Dordane lost connection: Disconnected
+[16:06:13] [Server thread/INFO]: Dordane left the game
