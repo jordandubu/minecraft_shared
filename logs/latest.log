@@ -1,10 +1,14 @@
-[17:40:24] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[17:40:24] [Server thread/INFO]: Loading properties
-[17:40:24] [Server thread/INFO]: Default game type: SURVIVAL
-[17:40:24] [Server thread/INFO]: Generating keypair
-[17:40:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:40:24] [Server thread/INFO]: Using epoll channel type
-[17:40:24] [Server thread/INFO]: Preparing level "World"
-[17:40:24] [Server thread/INFO]: Loaded 488 advancements
-[17:40:24] [Server thread/INFO]: Preparing start region for level 0
-[17:40:25] [Server thread/INFO]: Done (0.943s)! For help, type "help" or "?"
+[11:50:53] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[11:50:53] [Server thread/INFO]: Loading properties
+[11:50:53] [Server thread/INFO]: Default game type: SURVIVAL
+[11:50:53] [Server thread/INFO]: Generating keypair
+[11:50:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:50:53] [Server thread/INFO]: Using epoll channel type
+[11:50:53] [Server thread/INFO]: Preparing level "World"
+[11:50:53] [Server thread/INFO]: Loaded 488 advancements
+[11:50:53] [Server thread/INFO]: Preparing start region for level 0
+[11:50:54] [Server thread/INFO]: Done (0.885s)! For help, type "help" or "?"
+[11:51:05] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:51:05] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:51:13] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[11:51:19] [Server thread/INFO]: Unknown command. Try /help for a list of commands
