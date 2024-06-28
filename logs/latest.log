@@ -1,10 +1,10 @@
-[12:57:56] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[12:57:56] [Server thread/INFO]: Loading properties
-[12:57:56] [Server thread/INFO]: Default game type: SURVIVAL
-[12:57:56] [Server thread/INFO]: Generating keypair
-[12:57:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:57:56] [Server thread/INFO]: Using epoll channel type
-[12:57:57] [Server thread/INFO]: Preparing level "World"
-[12:57:57] [Server thread/INFO]: Loaded 488 advancements
-[12:57:57] [Server thread/INFO]: Preparing start region for level 0
-[12:57:57] [Server thread/INFO]: Done (0.900s)! For help, type "help" or "?"
+[13:19:32] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[13:19:32] [Server thread/INFO]: Loading properties
+[13:19:32] [Server thread/INFO]: Default game type: SURVIVAL
+[13:19:32] [Server thread/INFO]: Generating keypair
+[13:19:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:19:32] [Server thread/INFO]: Using epoll channel type
+[13:19:33] [Server thread/INFO]: Preparing level "World"
+[13:19:33] [Server thread/INFO]: Loaded 488 advancements
+[13:19:33] [Server thread/INFO]: Preparing start region for level 0
+[13:19:33] [Server thread/INFO]: Done (0.979s)! For help, type "help" or "?"
