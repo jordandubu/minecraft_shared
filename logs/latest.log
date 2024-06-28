@@ -11,3 +11,8 @@
 [14:42:26] [User Authenticator #1/INFO]: UUID of player Dordane is 2eb309c2-45f5-4eed-94a0-a294066b93a2
 [14:42:26] [Server thread/INFO]: Dordane[/127.0.0.1:38988] logged in with entity id 304 at (128.4573620581088, 82.0, 159.59910227862756)
 [14:42:26] [Server thread/INFO]: Dordane joined the game
+[14:43:58] [Server thread/INFO]: Dordane lost connection: Disconnected
+[14:43:58] [Server thread/INFO]: Dordane left the game
+[14:44:23] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[14:44:28] [Server thread/INFO]: Saving...
+[14:44:28] [Server thread/INFO]: Saved the world
