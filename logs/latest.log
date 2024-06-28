@@ -1,10 +1,13 @@
-[14:27:12] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[14:27:12] [Server thread/INFO]: Loading properties
-[14:27:12] [Server thread/INFO]: Default game type: SURVIVAL
-[14:27:12] [Server thread/INFO]: Generating keypair
-[14:27:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:27:12] [Server thread/INFO]: Using epoll channel type
-[14:27:13] [Server thread/INFO]: Preparing level "World"
-[14:27:13] [Server thread/INFO]: Loaded 488 advancements
-[14:27:13] [Server thread/INFO]: Preparing start region for level 0
-[14:27:14] [Server thread/INFO]: Done (0.953s)! For help, type "help" or "?"
+[14:40:24] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[14:40:24] [Server thread/INFO]: Loading properties
+[14:40:24] [Server thread/INFO]: Default game type: SURVIVAL
+[14:40:24] [Server thread/INFO]: Generating keypair
+[14:40:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:40:24] [Server thread/INFO]: Using epoll channel type
+[14:40:24] [Server thread/INFO]: Preparing level "World"
+[14:40:24] [Server thread/INFO]: Loaded 488 advancements
+[14:40:24] [Server thread/INFO]: Preparing start region for level 0
+[14:40:25] [Server thread/INFO]: Done (1.093s)! For help, type "help" or "?"
+[14:42:26] [User Authenticator #1/INFO]: UUID of player Dordane is 2eb309c2-45f5-4eed-94a0-a294066b93a2
+[14:42:26] [Server thread/INFO]: Dordane[/127.0.0.1:38988] logged in with entity id 304 at (128.4573620581088, 82.0, 159.59910227862756)
+[14:42:26] [Server thread/INFO]: Dordane joined the game
