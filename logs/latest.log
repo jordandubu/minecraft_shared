@@ -8,3 +8,8 @@
 [15:33:39] [Server thread/INFO]: Loaded 488 advancements
 [15:33:39] [Server thread/INFO]: Preparing start region for level 0
 [15:33:39] [Server thread/INFO]: Done (0.864s)! For help, type "help" or "?"
+[15:40:40] [User Authenticator #1/INFO]: UUID of player Dordane is 2eb309c2-45f5-4eed-94a0-a294066b93a2
+[15:40:40] [Server thread/INFO]: Dordane[/127.0.0.1:46008] logged in with entity id 306 at (130.61836126124638, 71.0, 158.35493715856978)
+[15:40:40] [Server thread/INFO]: Dordane joined the game
+[15:40:52] [Server thread/INFO]: Dordane lost connection: Disconnected
+[15:40:52] [Server thread/INFO]: Dordane left the game
