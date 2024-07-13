@@ -23,3 +23,8 @@
 [15:50:06] [Server thread/INFO]: TonyVernal left the game
 [15:52:25] [Server thread/INFO]: Dordane lost connection: Disconnected
 [15:52:25] [Server thread/INFO]: Dordane left the game
+[15:53:29] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:53:30] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[15:55:31] [User Authenticator #4/INFO]: UUID of player Dordane is 2eb309c2-45f5-4eed-94a0-a294066b93a2
+[15:55:31] [Server thread/INFO]: Dordane[/127.0.0.1:53230] logged in with entity id 4428 at (129.36545675871167, 70.0, 160.2313649878177)
+[15:55:31] [Server thread/INFO]: Dordane joined the game
