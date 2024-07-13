@@ -28,3 +28,10 @@
 [15:55:31] [User Authenticator #4/INFO]: UUID of player Dordane is 2eb309c2-45f5-4eed-94a0-a294066b93a2
 [15:55:31] [Server thread/INFO]: Dordane[/127.0.0.1:53230] logged in with entity id 4428 at (129.36545675871167, 70.0, 160.2313649878177)
 [15:55:31] [Server thread/INFO]: Dordane joined the game
+[15:57:06] [User Authenticator #5/INFO]: UUID of player TonyVernal is 834c69e0-5724-4f42-972f-fb36287e7833
+[15:57:06] [Server thread/INFO]: TonyVernal[/127.0.0.1:35066] logged in with entity id 5151 at (47.5, 68.0, 257.5)
+[15:57:06] [Server thread/INFO]: TonyVernal joined the game
+[15:57:47] [Server thread/INFO]: TonyVernal lost connection: Disconnected
+[15:57:47] [Server thread/INFO]: TonyVernal left the game
+[15:57:50] [Server thread/INFO]: Dordane lost connection: Disconnected
+[15:57:50] [Server thread/INFO]: Dordane left the game
